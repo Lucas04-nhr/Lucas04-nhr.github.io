@@ -42,21 +42,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Install Dependencies
-        run: |
-          gem install bundler
-          bundle install
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: |
-          bundle exec jekyll build
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          path: _site
-          name: github-pages
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
@@ -69,6 +62,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
