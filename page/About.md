@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: About | Lucas04's Blog
 permalink: /about/
+
 ---
 
 # Hi there! 👋
