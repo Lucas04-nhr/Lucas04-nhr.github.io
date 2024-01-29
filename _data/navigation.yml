@@ -34,46 +34,53 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Chinese
 # -------
-es: &DEFAULT_ES
+zh-hans: &DEFAULT_ZH_HANS
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
+    - title: "服务"
+      section: services
+    - title: "作品集"
+      section: portfolio
+    - title: "关于"
+      section: about
+    - title: "时间线"
+      section: timeline
+    - title: "团队"
+      section: team
+    - title: "联系"
+      section: contact
+    - title: "主题源码"
       url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
 
-# Deutsch
-# -----------------
-de: &DEFAULT_DE
+zh-hant: &DEFAULT_ZH_HANT
   nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
-    - title: "Über uns"
-      section: Ueber
-    - title: "Geschichte"
-      section: Geschichte
-    - title: "Team"
-      section: Team
-    - title: "Kontakt"
-      section: Kontakt
-    - title: "Quellcode des Themas"
+    - title: "服務"
+      section: services
+    - title: "作品集"
+      section: portfolio
+    - title: "關於"
+      section: about
+    - title: "時間線"
+      section: timeline
+    - title: "團隊"
+      section: team
+    - title: "聯繫"
+      section: contact
+    - title: "主題源碼"
       url: https://github.com/raviriley/agency-jekyll-theme/
-de-DE:
-  <<: *DEFAULT_DE
+
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
+
+zh-SG:
+  <<: *DEFAULT_ZH_HANS
+
+zh-TW:
+  <<: *DEFAULT_ZH_HANT
+
+zh-HK:
+  <<: *DEFAULT_ZH_HANT
+
+zh-MO:
+  <<: *DEFAULT_ZH_HANT
