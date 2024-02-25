@@ -1,9 +1,30 @@
 ---
-layout: default
-title: About | Lucas04's Blog
+layout: page
+title: About
 permalink: /about/
+css: ../assets/_sass/pages/about.scss
 
 ---
+
+<style>
+    body {
+    font-family: 'Roobert', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Roobert', sans-serif;
+        font-weight: 700;
+        margin: 0;
+        padding: 0;
+    }
+</style>
 
 # Hi there! 👋
 
