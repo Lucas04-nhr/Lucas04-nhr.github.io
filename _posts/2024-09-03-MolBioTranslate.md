@@ -13,7 +13,6 @@ published: true
 ---
 
 >Below are done on Sept. 3rd, 2024
-
 ## Part 1 History
 
 > 历史
