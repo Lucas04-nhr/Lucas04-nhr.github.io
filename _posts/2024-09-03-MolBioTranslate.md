@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary Translation
+title: Translation of Summary in MolBio Class
 date: 20240903
 category: "Molecular Biology"
 tags: [Molecular Biology, Translation]
