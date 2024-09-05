@@ -90,11 +90,11 @@ The first slide corresponds to Chapters 1 and 2 of the textbook.
 
 1. You are comparing two alleles of Gene X. What defines the two alleles as distinct alleles?
 
-Two alleles of a gene are considered distinct alleles if they have differences in their DNA sequences. These differences can be in the form of single nucleotide polymorphisms (SNPs), insertions, deletions, or other types of mutations that result in variations in the gene's sequence. These sequence differences can lead to variations in the protein encoded by the gene, affecting its structure or function. This variation in gene sequence is what defines the two alleles as distinct alleles of Gene X.
+	Two alleles of a gene are considered distinct alleles if they have differences in their DNA sequences. These differences can be in the form of single nucleotide polymorphisms (SNPs), insertions, deletions, or other types of mutations that result in variations in the gene's sequence. These sequence differences can lead to variations in the protein encoded by the gene, affecting its structure or function. This variation in gene sequence is what defines the two alleles as distinct alleles of Gene X.
 
 2. True or false. Explain your choice. One gene possesses only two alleles.
 
-**False.** One gene can possess more than two alleles. While classical Mendelian genetics often simplifies genetic inheritance to two alleles per gene (one from each parent), in reality, genes can have multiple alleles due to variations in the DNA sequence. These multiple alleles can arise from different mutations or polymorphisms within the gene, leading to a diverse range of genetic variations within a population. Therefore, it is possible for a gene to have more than two alleles.
+	**False.** One gene can possess more than two alleles. While classical Mendelian genetics often simplifies genetic inheritance to two alleles per gene (one from each parent), in reality, genes can have multiple alleles due to variations in the DNA sequence. These multiple alleles can arise from different mutations or polymorphisms within the gene, leading to a diverse range of genetic variations within a population. Therefore, it is possible for a gene to have more than two alleles.
 
 3. True or false. Explain your choice. One trait is always determined by one gene.
 
