@@ -95,3 +95,47 @@ Two alleles of a gene are considered distinct alleles if they have differences i
 2. True or false. Explain your choice. One gene possesses only two alleles.
 
 **False.** One gene can possess more than two alleles. While classical Mendelian genetics often simplifies genetic inheritance to two alleles per gene (one from each parent), in reality, genes can have multiple alleles due to variations in the DNA sequence. These multiple alleles can arise from different mutations or polymorphisms within the gene, leading to a diverse range of genetic variations within a population. Therefore, it is possible for a gene to have more than two alleles.
+
+3. True or false. Explain your choice. One trait is always determined by one gene.
+
+4. True or false. Explain your choice. For a given gene, one can always define the alleles as dominant or recessive.
+
+5. You want to identify dominant/recessive relation- ship for skin color for a new frog species that you found in the rain forest. Assume that one autosomal gene controls skin color in this species. All of the frogs that you found for that spe- cies are bright blue or yellow. A bright blue female and bright blue male frog mate and produce all bright blue progeny. A yel- low female and yellow male frog mate and produce a mix of bright blue and yellow progeny. Identify each trait (bright blue skin color and yellow skin color) as dominant or recessive. Explain your choices. Identify the genotype for each parent in the two crosses. Use the letter B to refer to the gene conferring skin color.
+
+6. Questions:
+
+	- After crossing true-breeding pea plants with yellow seeds to true-breeding pea plants with green seeds as Mendel did, what phenotype do you expect for the pea plants in the $\bold{F_1}$ generation if yellow seeds are dominant to green seeds?
+
+	- You self-cross the $\bold{F_1}$ generation. Give the expected pheno- typic ratio of the $\bold{F_2}$ generation.
+
+	- Give the expected genotypic ratio of the $\bold{F_2}$ generation.
+
+	- Give the expected ratio of heterozygotes to homozygotes in the $\bold{F_2}$ generation.
+
+7. Mendel studied seven distinct traits for pea plants. By luck six of the traits were on different chromosomes, and two traits were separated by a great distance on one chromosome. If Mendel selected two traits controlled by linked genes in his initial studies, which law would be affected (Mendel’s first or second law)? Explain your choice.
+
+8. You want to map the positions of three genes (*X*, *Y*, and *Z*) all found on one chromosome in Drosophila. Each gene has one dominant allele and one recessive allele. You perform the three different two-factor crosses (Cross 1: *XY* and *xy*, Cross 2: *YZ* and *yz*, and Cross 3: *XZ* and *xz*). Assume all crosses are between diploid flies homozygous for the alleles of these genes. You observe 7% recombinants in the first cross, $20\%$ recombinants in the second cross, and $13\%$ recombinants in the third cross. Draw a map placing the genes in the proper order and give the distance between each gene in map units (m.u.).
+
+9. You want to confirm your ordering for Question 8 using a three-factor cross (cross *XYZ*/*xyz* and *xyz*/*xyz*). Your least common recombinants are *xYZ* and *Xyz*. Does this confirm your order from Question 8? Explain why or why not.
+
+10. You again want to map the positions of three genes (*L*, *M*, and *N*) in Drosophila. Each gene has one dominant allele and one recessive allele. You perform the three different two-factor crosses (Cross 1: *LM* and *lm*, Cross 2: *MN* and *mn*, and Cross 3: *LN* and *ln*). Assume all crosses are between diploid flies homozygous for the alleles of these genes. You observe $5\%$ recombinants in the first cross, $50\%$ recombinants in the second cross, and $50\%$ recombinants in the third cross. Based on the data given, what can you determine for the gene order and distance between the genes?
+
+11. Following up on the observations in Question 10, you complete new crosses using gene *O*. You observe $30\%$ recom- bination for a cross between *MO* and *mo*, $35\%$ recombination for a cross between *LO* and *lo*, and $25\%$ recombination for a cross between *NO* and *no*. Assume all crosses are between diploid flies homozygous for the alleles of these genes. Given the information from Questions 10 and 11, draw a map placing the genes in the proper order and give the distance between each gene in map units.
+
+12. Define mutation. The cell has many mechanisms to prevent mutations. Explain how a very low mutation rate could be advantageous over the prevention of all mutations in an organism.
+
+13. Differentiate between chromosomes and chromatids.
+
+14. You are mapping the 6th chromosome of the sheep blowfly Lucilia cuprina and want to test how your calculations compare to a published map. In a recent cross, you studied the mutations *tri*, pk, and *y* that display thickened vein junctions, pink body color, and yellow eyes, respectively. From a cross between a male homozygous for the three mutations and a heter- ozygous female (*tri pk y*/ $+++$​), you record the counts for the progeny. In the published map, the distance between *y* and *pk* is 23.0 m.u., the distance between *pk* and *tri* is 18.4 m.u., and the distance between *y* and *tri* is 41.4 m.u. Based on the published map and given values below, calculate the expected values for observed progeny that represent either a single or double crossover. Remember that your observed values are data that include some statistical fluctuations.
+
+	**Total progeny counted:** 1000
+
+	**Total recombinants that represent a double crossover**: 15
+
+	Published map information from Weller and Foster (1993. *Genome* **36**: 495–506).
+
+15. You are studying a new species of bird. You know the species has sex chromosomes similar to chicken. Males carry two Z chromosomes, whereas females carry one Z chromosome and one W chromosome. Because the genome has not been sequenced yet, you will perform crosses to gain more genetic information. You are interested in the eye color of the birds. You obtain true-breeding birds with black or green eyes. You cross a black-eyed male to a green-eyed female. Assume the trait is determined by one gene.
+
+	- Considering a dominant/recessive relationship, you want to determine if black is recessive to green or if green is recessive to black. How could you use the phenotypes for the $\bold{F_1}$ and $\bold{F_2}$ progeny to help you answer this question?
+	- If the trait is sex-linked, refine your answer to part A with respect to the dominant/recessive relationship of a sex- linked trait on the Z chromosome for the $\bold{F_1}$ generation.
+	- Assume that black is dominant to green. You cross a blackeyed male from the $\bold{F_1}$ generation to a black-eyed female from the $\bold{F_1}$ generation. If the trait is sex-linked, predict the genotypic and phenotypic ratios for the $\bold{F_2}$ generation.
