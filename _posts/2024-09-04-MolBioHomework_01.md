@@ -104,13 +104,13 @@ Two alleles of a gene are considered distinct alleles if they have differences i
 
 6. Questions:
 
-	- After crossing true-breeding pea plants with yellow seeds to true-breeding pea plants with green seeds as Mendel did, what phenotype do you expect for the pea plants in the $\bold{F_1}$ generation if yellow seeds are dominant to green seeds?
+	- After crossing true-breeding pea plants with yellow seeds to true-breeding pea plants with green seeds as Mendel did, what phenotype do you expect for the pea plants in the $F_1$ generation if yellow seeds are dominant to green seeds?
 
-	- You self-cross the $\bold{F_1}$ generation. Give the expected pheno- typic ratio of the $\bold{F_2}$ generation.
+	- You self-cross the $F_1$ generation. Give the expected pheno- typic ratio of the $F_2$ generation.
 
-	- Give the expected genotypic ratio of the $\bold{F_2}$ generation.
+	- Give the expected genotypic ratio of the $F_2$ generation.
 
-	- Give the expected ratio of heterozygotes to homozygotes in the $\bold{F_2}$ generation.
+	- Give the expected ratio of heterozygotes to homozygotes in the $F_2$ generation.
 
 7. Mendel studied seven distinct traits for pea plants. By luck six of the traits were on different chromosomes, and two traits were separated by a great distance on one chromosome. If Mendel selected two traits controlled by linked genes in his initial studies, which law would be affected (Mendel’s first or second law)? Explain your choice.
 
@@ -136,6 +136,6 @@ Two alleles of a gene are considered distinct alleles if they have differences i
 
 15. You are studying a new species of bird. You know the species has sex chromosomes similar to chicken. Males carry two Z chromosomes, whereas females carry one Z chromosome and one W chromosome. Because the genome has not been sequenced yet, you will perform crosses to gain more genetic information. You are interested in the eye color of the birds. You obtain true-breeding birds with black or green eyes. You cross a black-eyed male to a green-eyed female. Assume the trait is determined by one gene.
 
-	- Considering a dominant/recessive relationship, you want to determine if black is recessive to green or if green is recessive to black. How could you use the phenotypes for the $\bold{F_1}$ and $\bold{F_2}$ progeny to help you answer this question?
-	- If the trait is sex-linked, refine your answer to part A with respect to the dominant/recessive relationship of a sex- linked trait on the Z chromosome for the $\bold{F_1}$ generation.
-	- Assume that black is dominant to green. You cross a blackeyed male from the $\bold{F_1}$ generation to a black-eyed female from the $\bold{F_1}$ generation. If the trait is sex-linked, predict the genotypic and phenotypic ratios for the $\bold{F_2}$ generation.
+	- Considering a dominant/recessive relationship, you want to determine if black is recessive to green or if green is recessive to black. How could you use the phenotypes for the $F_1$ and $F_2$ progeny to help you answer this question?
+	- If the trait is sex-linked, refine your answer to part A with respect to the dominant/recessive relationship of a sex- linked trait on the Z chromosome for the $F_1$ generation.
+	- Assume that black is dominant to green. You cross a blackeyed male from the $F_1$ generation to a black-eyed female from the $F_1$ generation. If the trait is sex-linked, predict the genotypic and phenotypic ratios for the $F_2$ generation.
