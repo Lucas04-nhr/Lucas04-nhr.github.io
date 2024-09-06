@@ -91,8 +91,6 @@ published: true
 | glycosidic bond |   糖苷键   |
 | phosphate bond  |  磷酸酯键  |
 
-### Thoughts
-
 ### Translation
 
 The first slide corresponds to Chapters 1 and 2 of the textbook.
