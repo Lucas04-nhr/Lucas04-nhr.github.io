@@ -26,7 +26,7 @@ live2d_settings['hitokotoAPI']          = 'hitokoto';                  // 一言
 
 // 默认模型
 live2d_settings['modelId']              = 6;            // 默认模型 ID，可在 F12 控制台找到
-live2d_settings['modelTexturesId']      = 8;           // 默认材质 ID，可在 F12 控制台找到
+live2d_settings['modelTexturesId']      = 1;           // 默认材质 ID，可在 F12 控制台找到
 
 // 工具栏设置
 live2d_settings['showToolMenu']         = true;         // 显示 工具栏          ，可选 true(真), false(假)
@@ -61,7 +61,7 @@ live2d_settings['waifuToolTop']         = '2px'         // 工具栏顶部边距
 live2d_settings['waifuMinWidth']        = '768px';      // 面页小于 指定宽度 隐藏看板娘，例如 'disable'(禁用), '768px'
 live2d_settings['waifuEdgeSide']        = 'left:0';     // 看板娘贴边方向，例如 'left:0'(靠左 0px), 'right:30'(靠右 30px)
 live2d_settings['waifuDraggable']       = 'unlimited';    // 拖拽样式，例如 'disable'(禁用), 'axis-x'(只能水平拖拽), 'unlimited'(自由拖拽)
-live2d_settings['waifuDraggableRevert'] = false;         // 松开鼠标还原拖拽位置，可选 true(真), false(假)
+live2d_settings['waifuDraggableRevert'] = true;         // 松开鼠标还原拖拽位置，可选 true(真), false(假)
 
 // 其他杂项设置
 live2d_settings['l2dVersion']           = '1.4.2';        // 当前版本
