@@ -72,7 +72,7 @@ published: true
 
 ## Volcabulary
 
-|     English     |  Chinese   |
+|     **English**     |  **Chinese**   |
 | :-------------: | :--------: |
 |  bacteriophage  |   噬菌体   |
 |  nucleic acids  |    核酸    |
