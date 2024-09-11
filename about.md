@@ -74,7 +74,7 @@ If you share similar interests or have exciting ideas for collaboration, feel fr
 
 ## 📮 Contact Me
 
-You can contact me via email: <lucas04@lucas04.xyz>.
+You can contact me via email: <lucas04@hust.edu.cn>.
 
 Some of my other social accounts are:
 <p style="display: ruby">
