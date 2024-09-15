@@ -30,26 +30,41 @@ published: true
 
 	在像人类这样的复杂真核生物中，基因通常更大，含有更多内含子和调控区域，这是由于基因调控的增加复杂性和对更复杂控制机制的需求所致。另一方面，在像大肠杆菌这样的简单原核生物中，基因较小，通常不含内含子，因为它们具有更简化的基因表达过程。
 
+3. The difference between U and T is a methyl ($-{CH}_3$)
+
+4. Non-Watson-Crick base pairs can occur in RNA structures due to the flexibility and versatility of RNA molecules. RNA can form a variety of base pairing interactions beyond the traditional Watson-Crick base pairs (A-U, G-C) due to its ability to adopt alternative conformations and structures. These non-canonical base pairs contribute to the structural diversity and functional versatility of RNA molecules, enabling them to perform a wide range of biological functions such as catalysis, gene regulation, and protein synthesis.
+
+5. The genetic material of prokaryotic cells is typically single-copy, while that of eukaryotic cells is usually multi-copy.
+
+6. DNA Supercoil
+
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240915_104843_week0_03.png" alt="Circular_DNA_Supercoiling" style="zoom:33%;" />
+
+	<center><small>By Richard Wheeler (Zephyris) - <a class="external free" href="https://upload.wikimedia.org/wikipedia/en/1/1e/Circular_DNA_Supercoiling.png">Source</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1937295">Link</a></small></center>
+
+	**DNA supercoiling** refers to the amount of twist in a particular DNA strand, which determines the amount of strain on it. A given strand may be "positively supercoiled" or "negatively supercoiled" (more or less tightly wound). The amount of a strand's supercoiling affects a number of biological processes, such as compacting DNA and regulating access to the genetic code (which strongly affects DNA metabolism and possibly gene expression). Certain enzymes, such as topoisomerases, change the amount of DNA supercoiling to facilitate functions such as DNA replication and transcription. The amount of supercoiling in a given strand is described by a mathematical formula that compares it to a reference state known as "relaxed B-form" DNA.
+
 ## Volcabulary
 
-| English | Chinese |
-| :-----: | :-----: |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
+|       English        |   Chinese    |
+| :------------------: | :----------: |
+|    methyl-uracil     |  甲基尿嘧啶  |
+|      stem-loop       |   环茎结构   |
+|    internal loop     |   内部循环   |
+|        bulge         |     鼓起     |
+|       junction       |    会合处    |
+|      pseudoknot      |     伪结     |
+|       aptamer        |  核酸适配体  |
+|      riboswitch      |   核糖开关   |
+|       RNase P        | 核糖核酸酶 P |
+|       introns        |    内含子    |
+|       viroids        |  病毒类囊体  |
+| peptidyl transferase |  肽基转移酶  |
+|      chromatin       |    染色质    |
+|  onhistone proteins  |  染色质蛋白  |
+|     haploid set      |   单倍体组   |
+|       diploid        |    二倍体    |
+|       homolog        |    同源物    |
 
 ## Thoughts
 
@@ -100,6 +115,13 @@ On the other hand, in simple prokaryotic organisms like Escherichia coli (E. col
 
 Overall, the differences in gene size and organization between eukaryotic and prokaryotic organisms reflect their distinct evolutionary histories and the complexity of gene regulation in eukaryotes.
 
+### Other
+
+1. The structure and function of organisms are adapted to each other, which is also reflected in RNA, here are some examples:
+	- **the process of RNA splicing**: In eukaryotic organisms, RNA splicing allows for the removal of non-coding sequences (introns) from the pre-mRNA molecule and the joining together of coding sequences (exons) to form a mature mRNA molecule. This process is crucial for the correct expression of genes and the production of functional proteins in organisms.
+	- **the role of ribosomal RNA (rRNA) in protein synthesis**: Ribosomes are molecular machines composed of rRNA and proteins that carry out the translation of mRNA into proteins. The structure and function of rRNA are highly adapted to interact with mRNA and tRNAs in a coordinated manner to ensure accurate and efficient protein synthesis in organisms.
+2. Biological organisms always contain unity within diversity, and the most conservative protein in eukaryotes - histone, binds to DNA in a consistent manner of **147 bp** across different eukaryotic organisms.
+
 ## Translation
 
 The second and third slides correspond to Chapters 5 and 8 of the textbook.
@@ -112,11 +134,11 @@ The second and third slides correspond to Chapters 5 and 8 of the textbook.
 
 RNA differs from DNA in the following ways: Its backbone contains ribose rather than 20-deoxyribose; it contains the pyrimidine uracil in place of thymine; and it usually exists as a single polynucleotide chain, without a complementary chain. As a consequence of being a single strand, RNA can fold back on itself to form short stretches of double helix between regions that are complementary to each other. RNA allows a greater range of base pairing than does DNA. Thus, as well as A:U and C:G pairing, non-Watson – Crick pairing is also seen, such as U pairing with G. This capacity to form noncanonical base pairs adds to the propensity of RNA to form double-helical segments. Freed of the constraint of forming long-range regular helices, RNA can form complex tertiary structures, which are often based on unconventional interactions between bases and the sugar – phosphate backbone.
 
-Some RNAs act as enzymes—they catalyze chemical reactions in the cell and in vitro. These RNA enzymes are known as **ribozymes**. Most ribozymes act on phosphorous centers, as in the case of the ribonuclease RNase P. RNase P is composed of protein and RNA, but it is the RNA moiety that is the catalyst. The hammerhead is a self-cleaving RNA, which cuts the RNA backbone via the formation of a $2^\prime,3^\prime$ cyclic phosphate. Peptidyl transferase is an example of a ribozyme that acts on a carbon center. This ribozyme, which is responsible for the formation of the peptide bond, is one of the RNA compo- nents of the ribosome.
+Some RNAs act as enzymes—they catalyze chemical reactions in the cell and in vitro. These RNA enzymes are known as **ribozymes**. Most ribozymes act on phosphorous centers, as in the case of the ribonuclease RNase P. RNase P is composed of protein and RNA, but it is the RNA moiety that is the catalyst. The hammerhead is a self-cleaving RNA, which cuts the RNA backbone via the formation of a $2^\prime,3^\prime$ cyclic phosphate. Peptidyl transferase is an example of a ribozyme that acts on a carbon center. This ribozyme, which is responsible for the formation of the peptide bond, is one of the RNA components of the ribosome.
 
 #### Translated Text
 
-RNA 与 DNA 在以下几个方面有所不同：其骨架含有核糖，而不是 2-de氧核糖；它含有嘧啶尿嘧啶（uracil），而不是胸腺嘧啶（thymine）；并且通常以单链多核苷酸的形式存在，没有互补链。由于是单链，RNA 可以自我折叠，形成短的双螺旋结构，这些结构位于互补区域之间。RNA 允许比 DNA 更广泛的碱基配对。因此，除了 A:U 和 C:G 配对外，还可以观察到非 Watson-Crick 配对，例如 U 与 G 的配对。这种形成非典型碱基对的能力增加了 RNA 形成双螺旋片段的倾向。摆脱了形成长程规则螺旋的限制，RNA 可以形成复杂的三级结构，这些结构通常基于碱基与糖-磷酸骨架之间的非常规相互作用。
+RNA 与 DNA 在以下几个方面有所不同：其骨架含有核糖，而不是 2-脱氧核糖；它含有嘧啶尿嘧啶（uracil），而不是胸腺嘧啶（thymine）；并且通常以单链多核苷酸的形式存在，没有互补链。由于是单链，RNA 可以自我折叠，形成短的双螺旋结构，这些结构位于互补区域之间。RNA 允许比 DNA 更广泛的碱基配对。因此，除了 A:U 和 C:G 配对外，还可以观察到非 Watson-Crick 配对，例如 U 与 G 的配对。这种形成非典型碱基对的能力增加了 RNA 形成双螺旋片段的倾向。摆脱了形成长程规则螺旋的限制，RNA 可以形成复杂的三级结构，这些结构通常基于碱基与糖-磷酸骨架之间的非常规相互作用。
 
 一些 RNA 作为酶发挥作用——它们催化细胞内和体外的化学反应。这些 RNA 酶被称为 **核酶**（ribozymes）。大多数核酶作用于磷中心，例如核糖核酸酶 RNase P。RNase P 由蛋白质和 RNA 组成，但催化剂是 RNA 部分。锤头 RNA 是一种自切割 RNA，通过形成 $2^\prime,3^\prime$ 环状磷酸盐切割 RNA 骨架。肽酰转移酶是作用于碳中心的核酶的一个例子。这种核酶负责肽键的形成，是核糖体的 RNA 组分之一。
 
@@ -152,10 +174,10 @@ Nucleosomes are assembled immediately after the DNA is replicated, leaving littl
 
 核小体的原子结构显示 DNA 大约绕着一个盘状的组蛋白核心外部约 1.7 圈。 DNA 与组蛋白之间的相互作用广泛但均匀且与碱基无关。这些相互作用的性质解释了 DNA 围绕组蛋白八聚体弯曲的现象，以及几乎所有 DNA 序列都能被纳入核小体的能力。这种结构还揭示了组蛋白氨基末端尾部的位置及其在引导 DNA 绕组蛋白路径中的作用。
 
-一旦 DNA 被包装成核小体，它就有能力形成更复杂的结构，进一步压缩 DNA。这一过程由第五种组蛋白 H1 促进。通过在核小体内部和相邻的 DNA 上结合，H1 使 DNA 更紧密地绕组蛋白八聚体。一种更紧凑的染色质形式，30 奈米纤维，可以通过 H1 结合的核小体阵列轻松形成。这种结构比单独包装成核小体的 DNA 更具抑制性。将 DNA 纳入这种结构会显著降低其对参与 DNA 转录的酶和蛋白质的可访问性。
+一旦 DNA 被包装成核小体，它就有能力形成更复杂的结构，进一步压缩 DNA。这一过程由第五种组蛋白 H1 促进。通过在核小体内部和相邻的 DNA 上结合，H1 使 DNA 更紧密地绕组蛋白八聚体。一种更紧凑的染色质形式，30nm 纤维，可以通过 H1 结合的核小体阵列轻松形成。这种结构比单独包装成核小体的 DNA 更具抑制性。将 DNA 纳入这种结构会显著降低其对参与 DNA 转录的酶和蛋白质的可访问性。
 
 DNA 与核小体中组蛋白的相互作用是动态的，允许 DNA 结合蛋白间歇性地访问 DNA。核小体重塑复合物通过增加核小体的移动性来增加纳入核小体的 DNA 的可访问性。可以观察到两种形式的移动性：组蛋白八聚体沿 DNA 滑动或完全释放。此外，这些复合物促进 H2A/H2B 二聚体的交换。核小体重塑复合物被招募到基因组的特定区域，以促进染色质可访问性的改变。某些核小体受限于基因组中的固定位点，被称为“定位”。核小体定位可以由 DNA 结合蛋白或特定 DNA 序列指导。
 
-组蛋白氨基末端尾部的修饰也会改变染色质的可访问性。这些修饰类型包括赖氨酸的乙酰化和甲基化、精氨酸的甲基化，以及丝氨酸、苏氨酸和酪氨酸的磷酸化。氨基末端尾部的乙酰化经常与活跃基因表达区域相关，并抑制 30 奈米纤维的形成。组蛋白修饰改变了核小体本身的性质，同时作为影响染色质可访问性的蛋白质结合位点。此外，这些修饰招募执行相同修饰的酶，导致相邻核小体/染色质区域的类似修饰，促进染色体复制时修改核小体/染色质区域的稳定传播。 
+组蛋白氨基末端尾部的修饰也会改变染色质的可访问性。这些修饰类型包括赖氨酸的乙酰化和甲基化、精氨酸的甲基化，以及丝氨酸、苏氨酸和酪氨酸的磷酸化。氨基末端尾部的乙酰化经常与活跃基因表达区域相关，并抑制 30nm 纤维的形成。组蛋白修饰改变了核小体本身的性质，同时作为影响染色质可访问性的蛋白质结合位点。此外，这些修饰招募执行相同修饰的酶，导致相邻核小体/染色质区域的类似修饰，促进染色体复制时修改核小体/染色质区域的稳定传播。 
 
 DNA 复制后立即装配核小体，使 DNA 解包的时间很短。装配涉及专门的组蛋白伴侣，它们将 H3.H4 四聚体和 H2A.H2B 二聚体引导到复制叉。在 DNA 复制过程中，核小体会暂时解体。组蛋白 H3.H4 四聚体和 H2A.H2B 二聚体会随机分布到一个或另一个子分子。平均而言，每个新的 DNA 分子会接收一半旧的和一半新的组蛋白。因此，两条染色体都会继承修饰的组蛋白，这些组蛋白随后可以作为相邻组蛋白类似修饰的“种子”。
