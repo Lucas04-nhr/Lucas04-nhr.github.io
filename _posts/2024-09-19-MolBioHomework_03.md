@@ -72,9 +72,9 @@ published: true
 
 	> **cccDNA (共价闭合环状 DNA)** 是一种特殊的 DNA 结构，它是一种末端无法旋转的拓扑结构域，出现在某些病毒在细胞核中传播时，并可能永久保留在那里。它是一种双链DNA，起源于线性形式，通过 DNA 连接酶连接成一个 共价闭合的环。在大多数情况下，病毒 DNA 的 转录 只能从环状形式发生。病毒的 cccDNA 也被称为**外源性 DNA**，有时也称为**迷你染色体**。
 
-13. The superhelical density of DNA $\left( \sigma = \frac{\Delta Lk}{{Lk}^0}\right)$ is related to Linking Number ($Lk$). If the $Lk$ is changed, then the DNA becomes torsionally stressed. If $\Delta Lk \left(= Lk - {Lk}^0 \right) < 0$, the DNA is said to be “negatively supercoiled”. DNA in cells is usually negatively supercoiled by about 6%.
+13. The superhelical density of DNA $\left( \sigma = \frac{\Delta Lk}{{Lk}^0}\right)$ is related to Linking Number ($Lk$). If the $Lk$ is changed, then the DNA becomes torsionally stressed. If $\Delta Lk \left(= Lk - \{Lk\}^0 \right) < 0$, the DNA is said to be “negatively supercoiled”. DNA in cells is usually negatively supercoiled by about 6%.
 
-	> DNA的超螺旋密度（$\sigma = \frac{\Delta Lk}{{Lk}^0}$）与连结数（$Lk$）有关。如果$Lk$发生变化，那么DNA就会产生扭转应力。如果$\Delta Lk \left(= Lk - {Lk}^0 \right) < 0$，则称DNA为“负超螺旋”。细胞中的 DNA 负超螺旋度约为 6%。
+	> DNA的超螺旋密度（$\sigma = \frac{\Delta Lk}{\{Lk\}^0}$）与连结数（$Lk$）有关。如果$Lk$发生变化，那么DNA就会产生扭转应力。如果$\Delta Lk \left(= Lk - \{Lk\}^0 \right) < 0$，则称DNA为“负超螺旋”。细胞中的 DNA 负超螺旋度约为 6%。
 
 ## Volcabulary
 
