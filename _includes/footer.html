@@ -51,7 +51,22 @@
           <span>|</span>
           <a class="{{ site.footer-link-color }}" target="_blank" href="https://alist.lucas04.xyz/" >WebDAV</a>    
         </p>
-        <p>ICP备案号: <a class="{{ site.footer-link-color }}" target="_blank" href="https://beian.miit.gov.cn/" >鄂ICP备2024040215号</a></p>
+        <p id="icp-record" style="display: none;">ICP备案号: <a class="{{ site.footer-link-color }}" target="_blank" href="https://beian.miit.gov.cn/" >鄂ICP备2024040215号</a></p>
+        <script>
+          fetch('https://ipapi.co/json/')
+            .then(response => response.json())
+            .then(data => {
+              if (data.country_code === 'CN') {
+                document.getElementById('icp-record').style.display = 'block';
+              }
+            })
+            .catch(error => console.error('Error fetching IP information:', error));
+        </script>
+        <p>&copy; <span id="currentYear"></span> Lucas. All rights reserved.</p>
+        <script>
+          document.getElementById('currentYear').textContent = new Date().getFullYear();
+        </script>
+        </p>
         <p>
           <a class="btn waves-effect waves-light {{ site.footer-button-color }} lighten-1 right white-text" href="{{ '/about' | prepend: site.baseurl }}"  target="_blank">Contact me</a>
         </p>    
