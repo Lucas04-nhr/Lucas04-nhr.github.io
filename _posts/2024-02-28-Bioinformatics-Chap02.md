@@ -12,11 +12,11 @@ published: true
 
 ## DNA结构
 
-![DNA结构](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/rjffcx.png)
+{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/rjffcx.png" caption="DNA结构" %}
 
 ## 双脱氧核糖核苷酸(Dideoxyribonucleotide)
 
-![双脱氧核糖核苷酸](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/XNNP8c.png)
+{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/XNNP8c.png" caption="双脱氧核糖核苷酸" %}
 
 ## 序列数据的存储
 

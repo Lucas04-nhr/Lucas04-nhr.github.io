@@ -14,7 +14,7 @@ published: true
 
 - SVM, Artificial neural networks, Hidden Markov Model…
 
-> ![VM, Artificial neural networks, Hidden Markov Model](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/Lkr0Yz.jpg)
+> {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/Lkr0Yz.jpg" caption="VM, Artificial neural networks, Hidden Markov Model" %}
 
 ## 中国早期机器学习在生物学中的应用
 
@@ -51,7 +51,7 @@ published: true
 - 准确性 (Accuracy, Ac): 对于整个数据集(包括阳性和阴性数据)，预测总共的准确比例是多少
 - 马修相关系数(Mathew correlation coefficient, MCC): 当阳性数据的数量与阴性数据的数量差别较大时，能够更为公平的反映预测能力，值域```[-1,1]```
 
-![常用评估指标](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/PzYkEI.png)
+{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/PzYkEI.png" caption="常用评估指标" %}
 
 ## ROC curve
 
@@ -60,7 +60,7 @@ published: true
 - AUC（area under the curve）
   - 值：ROC的面积越大，预测能力越强
 
-![ROC curve](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/jO1lFH.png)
+{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/jO1lFH.png" caption="ROC curve" %}
 
 ## 预测性能的评估 
 
@@ -121,7 +121,7 @@ published: true
 
 ## 如何评估算法的准确性？
 
-![Example](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/JvcJRh.png)
+{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/JvcJRh.png" caption="Example" %}
 
 ### 线性模型 & 决策树
 
@@ -138,13 +138,13 @@ published: true
 
 - 单层 & 多层神经网络
 - 误差逆传播 (Back propagation, BP)
-  - ![误差逆传播1](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/8cJUIc.jpg)
-  - ![误差逆传播2](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/GFfwPd.jpg)
+  - {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/8cJUIc.jpg" caption="误差逆传播1" %}
+  - {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/GFfwPd.jpg" caption="误差逆传播2" %}
 - 划分超平面
   - $f(x)=w^{T}x+b$
 - 核函数
   - 将线性不可分样本映射到更高维空间，从而线性可分
-  - ![核函数](https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/lUHEva.jpg)
+  - {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/uPic/lUHEva.jpg" caption="核函数" %}
 
 ### 贝叶斯分类器 & 集成学习
 
@@ -168,11 +168,11 @@ published: true
 > Reinforcement Learning from Human Feedback **(RLHF)**
 
 - 四代语言模型的演化过程
-  - ![演化过程](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/x7aRHb.jpg)
+  - {% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/x7aRHb.jpg" caption="演化过程" %}
 - 大型语言模型研发的时间线
-  - ![时间线](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/CxCtQj.jpg)
+  - {% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/CxCtQj.jpg" caption="时间线" %}
 - 人类反馈的强化学习算法
-  - ![算法](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/6oaCHY.jpg)
+  - {% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/6oaCHY.jpg" caption="算法" %}
 
 ### AGI and its developments
 
@@ -180,25 +180,25 @@ published: true
 
 > 生成对抗网络
 
-![GAN](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/FzryZ8.jpg)
+{% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/FzryZ8.jpg" caption="GAN" %}
 
 #### Variational Autoencoder, VAE
 
 > 变分自编码器
 
-![VAE](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/h214At.png)
+{% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/h214At.png" caption="VAE" %}
 
 #### Stable Diffusion, SD
 
 > 稳定扩散
 
-![SD](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/hzQTVO.png)
+{% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/hzQTVO.png" caption="SD" %}
 
 #### Text Encoder, TE
 
 > 文本编码器
 
-![TE](https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/fmqSGO.jpg)
+{% include figure.html image="https://raw.githubusercontent.com/Lucas04-nhr/Pictures/main/uPic/fmqSGO.jpg" caption="TE" %}
 
   **And more...**
 
@@ -269,18 +269,18 @@ $P(X=k) = \frac{\lambda^k e^{-\lambda}}{k!}$
   - 细菌在噬菌体攻击之前已经具有抵抗能力，不需要与病毒相互作用，受到攻击时也不产生新的突变
   - 具有抵抗能力的细菌随时间比例增加
   - **非泊松分布**：抵抗性细菌由紧密相关的个体构成群落
-  - ![Mondel](https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107582955791710758294656.png)
+  - {% include figure.html image="https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107582955791710758294656.png" caption="Mondel" %}
 - 拉马克 – 获得性遗传
   - 细菌在受到攻击的时候才产生免疫能力
   - 具有抵抗能力的细菌在受到攻击时的比例恒定
   - **泊松分布：**每一个抵抗是一个独立的事件
-  - ![Lamarck](https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107584485741710758447915.png)
+  - {% include figure.html image="https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107584485741710758447915.png" caption="Lamarck" %}
 
 ##### 结果：方差分析
 
 > 泊松分布的方差等于均值，而非泊松分布的方差大于均值
 
-![The result](https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107585275721710758527407.png)
+{% include figure.html image="https://fastly.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/17107585275721710758527407.png" caption="The result" %}
 
 结论：细菌的抵抗性是由基因决定的，而非获得性遗传。
 
