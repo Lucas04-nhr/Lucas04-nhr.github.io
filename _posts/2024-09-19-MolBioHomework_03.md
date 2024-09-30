@@ -28,7 +28,7 @@ published: true
 
 4. The DNA of most organisms is usually **negatively supercoiled**. It becomes temporarily positively supercoiled when it is being replicated or transcribed.
 
-	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111357_week03_1.png" alt="Supercoiled DNA" style="zoom:30%;" />
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111357_week03_1.png" alt="Supercoiled DNA" style="zoom:30%;" />
 
 	> 大多数生物的 DNA 通常是**负超螺旋**的。在复制或转录时，它会暂时变为正超螺旋。
 
@@ -66,7 +66,7 @@ published: true
 
 12. **cccDNA (covalently closed circular DNA)**, a topological domain whose ends are impossible to rotate, is a special DNA structure that arises during the propagation of some viruses in the cell nucleus and may remain permanently there. It is a double-stranded DNA that originates in a linear form that is ligated by means of DNA ligase to a covalently closed ring. In most cases, transcription of viral DNA can occur from the circular form only. The cccDNA of viruses is also known as **episomal DNA** or occasionally as a **minichromosome**.
 
-	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111405_week03_2.png" alt="cccDNA" style="zoom:20%;" />
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111405_week03_2.png" alt="cccDNA" style="zoom:20%;" />
 
 	<center><small>By Navneet Matharu, Nadav Ahituv - Matharu, Navneet (<span class="mw-formatted-date" title="2015-12-03">2015-12-03</span>). "<a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMCPMC4669122">Minor Loops in Major Folds: Enhancer–Promoter Looping, Chromatin Restructuring, and Their Association with Transcriptional Regulation and Disease</a>". PLOS Genetics 11 (12): e1005640. <span lang="en" dir="ltr"><a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="en:Digital object identifier">DOI</a></span>:<a rel="nofollow" class="external text" href="https://doi.org/10.1371/journal.pgen.1005640">10.1371/journal.pgen.1005640</a>. <span lang="en" dir="ltr"><a href="https://en.wikipedia.org/wiki/PubMed" class="extiw" title="en:PubMed"><span lang="en" dir="ltr">PMID</span></a></span> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/26632825">26632825</a>. <span lang="en" dir="ltr"><a href="https://en.wikipedia.org/wiki/PubMed_Central" class="extiw" title="en:PubMed Central"><span lang="en" dir="ltr">PMC</span></a></span>: <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMCPMC4669122">PMC4669122</a>. <span lang="en" dir="ltr"><a href="https://en.wikipedia.org/wiki/ISSN" class="extiw" title="en:ISSN"><span lang="en" dir="ltr">ISSN</span></a></span> <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/1553-7404">1553-7404</a>., <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59894646">Link</a></small></center>
 
@@ -86,7 +86,7 @@ published: true
 
 ### Slide 01
 
-<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111409_week03_3.png" alt="Slide 01" style="zoom:20%;" />
+<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111409_week03_3.png" alt="Slide 01" style="zoom:20%;" />
 
 ---
 
@@ -122,7 +122,7 @@ This slide illustrates the migration of different forms of DNA during gel electr
 
 ### Slide 02
 
-<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111414_week03_4.png" alt="Slide 02" style="zoom:20%;" />
+<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240922_111414_week03_4.png" alt="Slide 02" style="zoom:20%;" />
 
 ---
 

@@ -14,7 +14,7 @@ published: true
 
 1. The explanation of this graph
 
-	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240912_100051_week02_01.png" alt="Fig. 01 " style="zoom:50%;" />
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240912_100051_week02_01.png" alt="Fig. 01 " style="zoom:50%;" />
 
 	(Please note that this is a distribution of genome sizes of different species. The vertical axis represents the relative complexity of the species, while the horizontal axis is the logarithmic value of genome size.)
 
@@ -24,7 +24,7 @@ published: true
 
 2. The reason why in complex eukaryotes genomes,the gene density↑ ,gene size ↓?
 
-	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240912_100332_week02_02.png" alt="Fig. 02" style="zoom:50%;" />
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240912_100332_week02_02.png" alt="Fig. 02" style="zoom:50%;" />
 
 	> See details below in **Thought** section
 
@@ -38,7 +38,7 @@ published: true
 
 6. DNA Supercoil
 
-	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240915_104843_week0_03.png" alt="Circular_DNA_Supercoiling" style="zoom:33%;" />
+	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240915_104843_week0_03.png" alt="Circular_DNA_Supercoiling" style="zoom:33%;" />
 
 	<center><small>By Richard Wheeler (Zephyris) - <a class="external free" href="https://upload.wikimedia.org/wikipedia/en/1/1e/Circular_DNA_Supercoiling.png">Source</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1937295">Link</a></small></center>
 

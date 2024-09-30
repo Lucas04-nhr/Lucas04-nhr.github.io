@@ -9,10 +9,10 @@ I'm a passionate undergraduate student at Huazhong University of Science and Tec
 ---
 
 <p align="center" style="display: ruby-text;"> 
-    <img class="image" alt="GitHub Actions Workflow Status" src="https://img class="image".shields.io/github/actions/workflow/status/lucas04-nhr/lucas04-nhr.github.io/.github%2Fworkflows%2Fdeploy_github_page.yml" style="margin-left: 10px;margin-right: 10px;">
-    <img class="image" src="https://komarev.com/ghpvc/?username=lucas04-nhr&label=Profile%20views&color=0e75b6&style=flat" alt="lucas04-nhr" style="margin-left: 10px;margin-right: 10px;"> 
-    <img class="image" alt="GitHub User's stars" src="https://img class="image".shields.io/github/stars/Lucas04-nhr?style=flat" style="margin-left: 10px;margin-right: 10px;">
-    <img class="image" alt="GitHub followers" src="https://img class="image".shields.io/github/followers/Lucas04-nhr?style=flat" style="margin-left: 10px;margin-right: 10px;">
+    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/lucas04-nhr/lucas04-nhr.github.io/.github%2Fworkflows%2Fdeploy_github_page.yml" style="margin-left: 10px;margin-right: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=lucas04-nhr&label=Profile%20views&color=0e75b6&style=flat" alt="lucas04-nhr" style="margin-left: 10px;margin-right: 10px;"> 
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Lucas04-nhr?style=flat" style="margin-left: 10px;margin-right: 10px;">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Lucas04-nhr?style=flat" style="margin-left: 10px;margin-right: 10px;">
 </p>
 
 ---
@@ -44,32 +44,32 @@ If you share similar interests or have exciting ideas for collaboration, feel fr
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img class="image" align="center" src="https://github-profile-trophy.vercel.app/?username=lucas04-nhr" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=lucas04-nhr" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
     </a>
-    <img class="image" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas04-nhr&show_icons=true&locale=en&layout=compact" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
-    <img class="image" src="https://github-readme-stats.vercel.app/api?username=lucas04-nhr&show_icons=true&locale=en" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
-    <img class="image" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas04-nhr&" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas04-nhr&show_icons=true&locale=en&layout=compact" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas04-nhr&show_icons=true&locale=en" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas04-nhr&" alt="lucas04-nhr" style="margin-top: 10px;margin-bottom: 10px;">
 </p>
 
 ### Languages and Tools
 
 <p style="display: inline-flex;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/GitHub/GitHub.png?raw=true" alt="GitHub" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/GitLab/GitLab.png?raw=true" alt="GitLab" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Cloudflare/Cloudflare.png?raw=true" alt="Cloudflare" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Visual Studio Code" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/GitHub/GitHub.png?raw=true" alt="GitHub" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/GitLab/GitLab.png?raw=true" alt="GitLab" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Cloudflare/Cloudflare.png?raw=true" alt="Cloudflare" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Visual Studio Code" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 <p style="display: inline-flex;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Ruby/Ruby.png?raw=true" alt="Ruby" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/C++/C++.png?raw=true" alt="C++" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Rstudio/RStudio.png?raw=true" alt="RStudio" style="width: 206px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Ruby/Ruby.png?raw=true" alt="Ruby" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/C++/C++.png?raw=true" alt="C++" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Rstudio/RStudio.png?raw=true" alt="RStudio" style="width: 206px; height: 90px; margin: 10px 10px;">
 </p>
 <p style="display: inline-flex;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Clion/Clion.png?raw=true" alt="CLion" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Ubuntu/Ubuntu.png?raw=true" alt="Ubuntu" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/X/X.png?raw=true" alt="X" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img class="image" src="https://github.com/Lucas04-nhr/ServiceLogos/blob/e15ad741aafac259e0a27a735a2f0f98563386d4/Html/HTML.png?raw=true" alt="HTML" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Clion/Clion.png?raw=true" alt="CLion" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/Ubuntu/Ubuntu.png?raw=true" alt="Ubuntu" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/1f1640e75992c9b15732fa348a65ae6a49b9c9f9/X/X.png?raw=true" alt="X" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/e15ad741aafac259e0a27a735a2f0f98563386d4/Html/HTML.png?raw=true" alt="HTML" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 
 ## 📮 Contact Me
@@ -78,19 +78,19 @@ You can contact me via email: <lucas04@lucas04.xyz>.
 
 Some of my other social accounts are:
 <p style="display: ruby">
-<a href="https://twitter.com/__lucas04__" target="blank"><img class="image" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__lucas04__" height="30" width="40" /></a>
-<a href="https://fb.com/lucas.04.n" target="blank"><img class="image" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.04.n" height="30" width="40" /></a>
-<a href="https://instagram.com/lucas04_11" target="blank"><img class="image" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas04_11" height="30" width="40" /></a>
+<a href="https://twitter.com/__lucas04__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__lucas04__" height="30" width="40" /></a>
+<a href="https://fb.com/lucas.04.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.04.n" height="30" width="40" /></a>
+<a href="https://instagram.com/lucas04_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas04_11" height="30" width="40" /></a>
 </p>
 
 ## ☕ Support Me
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/lucas04"> 
-        <img class="image" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lucas04" style="margin-top: 10px;margin-bottom: 10px;">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lucas04" style="margin-top: 10px;margin-bottom: 10px;">
     </a>
     <a href="https://ko-fi.com/lucas04"> 
-        <img class="image" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lucas04" style="margin-top: 10px;margin-bottom: 10px;">
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lucas04" style="margin-top: 10px;margin-bottom: 10px;">
     </a>
 </p>
 
