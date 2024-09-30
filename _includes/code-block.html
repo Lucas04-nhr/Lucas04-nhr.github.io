@@ -1,0 +1,107 @@
+<!-- 代码框显示行数--行数样式 -->
+<style>
+  .highlighter-rouge pre .code-number {
+      position: absolute;
+      width: 48px;
+      background-color: #fafafa;
+      top: 0;
+      left: 0;
+      padding: 8px 0 6px 0;
+      margin: 0;
+      list-style: none;
+      text-align: right;
+      font-size: 16px;
+      overflow: hidden;
+      overflow-x: auto;
+      font-weight: normal;
+      line-height: 22px;
+      color: #000;
+  }
+
+  .highlighter-rouge pre .code-number li {
+      color: #383a42;
+      border-right: 1px solid #c5c5c5;
+      padding: 0 8px;
+      list-style: none;
+      margin: 0;
+      font-weight: normal;
+      /* 字体 */
+      font-family: Cascadia Code;
+      font-feature-settings: normal;
+      font-variant-ligatures: common-ligatures;
+  }
+</style>
+
+<!-- 代码框样式 -->
+<style>
+  /* 初始配置 */
+  .highlighter-rouge {
+      position: relative;
+  }
+
+  .highlighter-rouge .highlight {
+      overflow-x: auto;
+      white-space: pre-wrap; /* Enables soft-wrapping */
+      word-wrap: normal; /* Ensures words are not broken */
+  }
+
+  /* 代码框内文字 */
+  .highlighter-rouge pre {
+      font-size: 14px;
+      line-height: 22px;
+      margin: 0 0 24px;
+      padding: 8px 16px 6px 56px;
+  }
+
+  .highlighter-rouge code span {
+      font-size: 14px;
+  }
+
+  .highlighter-rouge code,
+  .highlighter-rouge code span {
+      line-height: 22px;
+      font-size: 14px;
+      /* 字体 */
+      font-family: Cascadia Code;
+      font-feature-settings: normal;
+      font-variant-ligatures: common-ligatures;
+  }
+
+  /* 设置代码框内滚动条在code框上 */
+  .highlighter-rouge pre {
+      overflow-x: hidden;
+  }
+
+  .highlighter-rouge pre code {
+      display: block;
+      overflow-x: auto;
+      white-space: pre-wrap; /* Enables soft-wrapping */
+      word-wrap: normal; /* Ensures words are not broken */
+  }
+
+  /* 用单个`括起来的代码 */
+  code.highlighter-rouge {
+      padding: 2px 4px;
+      font-size: 14px;
+      line-height: 22px;
+      color: #c7254e;
+      background-color: #f9f2f4;
+      border-radius: 2px;
+      /* 字体 */
+      font-family: Cascadia Code;
+      font-feature-settings: normal;
+      font-variant-ligatures: common-ligatures;
+      word-wrap: normal; /* Ensures words are not broken */
+}
+
+  /* 滚动条样式 */
+  .highlighter-rouge pre code::-webkit-scrollbar {
+      height: 8px;
+      width: 138px;
+  }
+
+  .highlighter-rouge pre code::-webkit-scrollbar-thumb {
+      background: #C2C2C2;
+      border-radius: 4px;
+  }
+</style>
