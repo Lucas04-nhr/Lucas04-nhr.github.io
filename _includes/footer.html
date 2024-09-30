@@ -53,7 +53,6 @@
             <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
           </a>.
         </p>
-      </p>
         <p>The site is powered by <a class="{{ site.footer-link-color }}" href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a class="{{ site.footer-link-color }}" href="https://github.com/lucas04-nhr/lucas04-nhr.github.io" target="_blank">GitHub Pages</a>.</p>
         <p><span id="timeDate">Loading days </span><span id="times"> and time...</span></p>
         <p>
@@ -72,7 +71,10 @@
                 document.getElementById('icp-record').style.display = 'block';
               }
             })
-            .catch(error => console.error('Error fetching IP information:', error));
+            .catch(error => {
+              console.error('Error fetching IP information:', error);
+              document.getElementById('icp-record').style.display = 'block';
+            });
         </script>
         <p>&copy; <span id="currentYear"></span> Lucas. All rights reserved.</p>
         <script>
