@@ -1,11 +1,10 @@
 // 代码框显示行数
 $(document).ready(function () {
   function get_count(code_text) { //计算代码行数
-    const regex = /\n/g;
-    const match = code_text.match(regex);
-    const count = match ? match.length : 0;
-    return count;
+    const lines = code_text.split('\n');
+    return lines.length;
   }
+
   function create_ul(code_text) { //根据行数生成ul标签
     const code_count = get_count(code_text);
     const res_ul = $('<ul class="code-number"></ul>');
