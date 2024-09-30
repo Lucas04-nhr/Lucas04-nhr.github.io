@@ -35,7 +35,9 @@ Press [here](#giscus-target) to jump to the comment section
 2. 如果没有留下来，可以做如下尝试（难度依次递增，但是功能性也相应依次递增，操作不来的可以~~淘宝搜索“软件代安装”~~私信我）：
 
 	- 在线网站 [Lightly](https://lightly.teamcode.com/)
+	
 		{% include figure.html image="https://github.com/Lucas04-nhr/lucas04-nhr.github.io/assets/117806313/62dbb46f-401d-40ee-ab23-71c09157c14e" caption="Price of Lightly" %}
+
 	- Microsoft Visual Studio 2019+
 
 		从2019版本开始代码补全才引入了软件当中，从2016版本开始每个大版本都有对应的**免费社区版**，不需要花钱，更早版本则需要自行寻找学习版
