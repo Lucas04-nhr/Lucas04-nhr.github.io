@@ -1,3 +1,12 @@
+<style>
+  .MathJax {
+    align-self: center;
+    max-width: 90%;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+</style>
+
 <script>
   MathJax = {
     tex: {
@@ -8,21 +17,19 @@
         autoNumber: "AMS"
       }
     },
-    options: {
-      ignoreHtmlClass: 'tex2jax_ignore',
-      processHtmlClass: 'tex2jax_process'
-    },
-    startup: {
-      pageReady: () => {
-        return MathJax.startup.defaultPageReady().then(() => {
-          const {HTMLCSS} = MathJax._.output.html;
-          HTMLCSS.fontInUse = 'TeX'; // Set the font to TeX
-        });
-      }
+    svg: {
+      linebreaks: {
+        automatic: true,
+        width: "container"
+      },
+      fontCache: 'global'
     },
     chtml: {
-      scale: 1, // Change the scale here
+        scale: 1, // Change the scale here
     },
   };
 </script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
