@@ -16,7 +16,7 @@ published: true
 
 2. Central Dogma
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240905_170126_week1_01.png" alt="Central Dogma" style="zoom:33%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240905_170126_week1_01.png" alt="Central Dogma" style="zoom:33%;" />
 
 3. Genes influence the development of phenotypes.
 
@@ -24,15 +24,15 @@ published: true
 
 5. DNA is passed between generations through **semi-conservative replication**, while maintaining the stability of genetic information in a **double helix** structure. 
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240905_172530_week1_02.png" alt="Semi-Conservative Replication" style="zoom:33%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240905_172530_week1_02.png" alt="Semi-Conservative Replication" style="zoom:33%;" />
 
 6. The brief structure of DNA
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_080941_week1_03.png" alt="DNA Structure" style="zoom:33%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_080941_week1_03.png" alt="DNA Structure" style="zoom:33%;" />
 
 7. The values and ranges of atomic sizes, bond lengths, and bond angles between atoms determine the basic shape and degrees of freedom of the spatial structure.
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_081557_week1_04.png" alt="week1_04" style="zoom:50%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_081557_week1_04.png" alt="week1_04" style="zoom:50%;" />
 
 8. Why does the DNA helix twist to the right instead of the left?
 
@@ -40,7 +40,7 @@ published: true
 
 	**Answer:** The DNA helix twists to the right due to the chirality of the deoxyribose sugar molecules in the DNA backbone. The deoxyribose sugars in DNA are in the D-configuration, which causes the helix to naturally twist in a right-handed direction. This chirality of the sugar molecules dictates the direction of the helical twist in DNA.
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_084234_week1_05.png" alt="D-Configuration of Deoxyribose Sugar" style="zoom:33%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_084234_week1_05.png" alt="D-Configuration of Deoxyribose Sugar" style="zoom:33%;" />
 
 9. Various conformations of nucleic acids - Z fold and B fold
 
@@ -52,7 +52,7 @@ published: true
 
 	Additionally, Z-DNA usually forms in specific sequences or structures, such as in DNA supercoils, negative supercoiled regions, or sequences rich in GC base pairs. These specific sequences and structures are also among the reasons for the structural differences between Z-DNA and B-DNA.
 
-	<img src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_085336_week1_06.png" alt="week1_06" style="zoom:20%;" />
+	<img class="image" src="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/20240906_085336_week1_06.png" alt="week1_06" style="zoom:20%;" />
 
 10. Why is DNA the primary genetic material?
 
