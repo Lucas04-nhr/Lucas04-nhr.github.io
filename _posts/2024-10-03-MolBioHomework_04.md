@@ -88,6 +88,9 @@ $$
 \end{align}
 $$
 
+$\text{Bromodomain} \rightarrow \text{acetyl group}\left(-C_2H_5\right)$
+$\text{Chromodomain} \rightarrow \text{methyl group}\left(-CH_3\right)$
+
 ## Volcabulary
 
 <center>All the words to be translated in Chapter 8 are listed in the summary of Week 02. </center>
