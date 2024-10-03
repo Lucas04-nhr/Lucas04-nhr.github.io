@@ -35,8 +35,8 @@ published: true
 
   {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-01.png" caption="Structure of CENP-A" %}[^1]
 
-    1. CENP-A is a variant of histone H3 that is specifically localized to centromeres, the regions of chromosomes that are essential for proper chromosome segregation during cell division. CENP-A helps to form the specialized chromatin structure at centromeres, known as the kinetochore, which is crucial for attaching chromosomes to the mitotic spindle during cell division.
-    2. Histone H3, on the other hand, is one of the core histone proteins that make up the nucleosome, the basic repeating unit of chromatin. Histone H3 is involved in packaging DNA into chromatin and regulating gene expression by influencing the accessibility of DNA to transcription factors and other regulatory proteins. It undergoes various post-translational modifications, such as methylation, acetylation, and phosphorylation, which can affect chromatin structure and gene expression.
+    - CENP-A is a variant of histone H3 that is specifically localized to centromeres, the regions of chromosomes that are essential for proper chromosome segregation during cell division. CENP-A helps to form the specialized chromatin structure at centromeres, known as the kinetochore, which is crucial for attaching chromosomes to the mitotic spindle during cell division.
+    - Histone H3, on the other hand, is one of the core histone proteins that make up the nucleosome, the basic repeating unit of chromatin. Histone H3 is involved in packaging DNA into chromatin and regulating gene expression by influencing the accessibility of DNA to transcription factors and other regulatory proteins. It undergoes various post-translational modifications, such as methylation, acetylation, and phosphorylation, which can affect chromatin structure and gene expression.
 
   In summary, CENP-A is a specialized histone variant localized to centromeres, while histone H3 is a core histone protein involved in chromatin packaging and gene regulation. Both proteins are essential for proper chromosome function and cell division.
 
@@ -58,14 +58,14 @@ published: true
 
 	{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-03.png" caption="Structure of Chromatin" %} [^3]
 
-	1. Chromatin can associate with the core of DNA and histones.
-	2. By hydrolyzing ATP to drive the movement of nucleosomes, the relative positions of DNA and histones can be altered.
-	3. Working with histone chaperones, it is possible to exchange histone variants, thereby affecting chromosome structure and consequently influencing DNA expression.
+	- Chromatin can associate with the core of DNA and histones.
+	- By hydrolyzing ATP to drive the movement of nucleosomes, the relative positions of DNA and histones can be altered.
+	- Working with histone chaperones, it is possible to exchange histone variants, thereby affecting chromosome structure and consequently influencing DNA expression.
 
 15. **HATs and HDAcs, HMTs and HDMs**
 
-	1. HATs (Histone Acetyltransferases) and HDACs (Histone Deacetylases) are enzymes that regulate gene expression by adding or removing acetyl groups from histone proteins. HATs add acetyl groups to histones, leading to a more open chromatin structure and increased gene transcription, while HDACs remove acetyl groups, resulting in a more condensed chromatin structure and decreased gene transcription. The balance between HATs and HDACs plays a crucial role in controlling gene expression and various cellular processes. Dysregulation of HATs and HDACs has been linked to various diseases, including cancer, making them important targets for therapeutic interventions.
-	2. HMTs (Histone Methyltransferases) and HDMs (Histone Demethylases) are enzymes involved in the post-translational modification of histone proteins. Histones play a crucial role in regulating gene expression by packaging DNA into chromatin. HMTs add methyl groups to histone proteins, primarily at lysine or arginine residues, leading to either activation or repression of gene expression depending on the specific site of methylation. On the other hand, HDMs remove methyl groups from histones, thereby modulating the chromatin structure and gene expression patterns.
+	- HATs (Histone Acetyltransferases) and HDACs (Histone Deacetylases) are enzymes that regulate gene expression by adding or removing acetyl groups from histone proteins. HATs add acetyl groups to histones, leading to a more open chromatin structure and increased gene transcription, while HDACs remove acetyl groups, resulting in a more condensed chromatin structure and decreased gene transcription. The balance between HATs and HDACs plays a crucial role in controlling gene expression and various cellular processes. Dysregulation of HATs and HDACs has been linked to various diseases, including cancer, making them important targets for therapeutic interventions.
+	- HMTs (Histone Methyltransferases) and HDMs (Histone Demethylases) are enzymes involved in the post-translational modification of histone proteins. Histones play a crucial role in regulating gene expression by packaging DNA into chromatin. HMTs add methyl groups to histone proteins, primarily at lysine or arginine residues, leading to either activation or repression of gene expression depending on the specific site of methylation. On the other hand, HDMs remove methyl groups from histones, thereby modulating the chromatin structure and gene expression patterns.
 
 	These enzymes are essential for the dynamic regulation of gene expression and play a critical role in various cellular processes, including development, differentiation, and disease.
 
@@ -73,22 +73,14 @@ published: true
 
 	Bromodomains and chromodomains are protein domains that specifically recognize and bind to certain types of histone modifications, playing a crucial role in regulating chromatin structure and gene expression.
 
-	1. Bromodomains are modules that recognize acetylated lysine residues on histone proteins. They are commonly found in proteins involved in chromatin remodeling, transcriptional regulation, and other nuclear processes. By binding to acetylated histones, bromodomains help recruit other proteins or protein complexes to specific chromatin regions, thereby influencing gene expression.
+	- Bromodomains are modules that recognize acetylated lysine residues on histone proteins. They are commonly found in proteins involved in chromatin remodeling, transcriptional regulation, and other nuclear processes. By binding to acetylated histones, bromodomains help recruit other proteins or protein complexes to specific chromatin regions, thereby influencing gene expression.
 
-	2. Chromodomains, on the other hand, recognize methylated lysine or arginine residues on histones. They are often found in proteins involved in chromatin organization, gene silencing, and heterochromatin formation. Chromodomains can mediate interactions with methylated histones, leading to the recruitment of chromatin-modifying enzymes and other proteins that regulate chromatin structure and function.
+	- Chromodomains, on the other hand, recognize methylated lysine or arginine residues on histones. They are often found in proteins involved in chromatin organization, gene silencing, and heterochromatin formation. Chromodomains can mediate interactions with methylated histones, leading to the recruitment of chromatin-modifying enzymes and other proteins that regulate chromatin structure and function.
 
 	Both bromodomains and chromodomains are critical for the proper regulation of gene expression and chromatin dynamics in eukaryotic cells. Understanding the specific functions and interactions of these domains is essential for deciphering the complex mechanisms underlying epigenetic regulation and cellular processes: 
 
-$$
-\begin{align}
-	\left\{
-		\text{Bromodomain} \rightarrow \text{acetyl group}\left(-C_2H_5\right) \\
-		\text{Chromodomain} \rightarrow \text{methyl group}\left(-CH_3\right)
-	\right.
-\end{align}
-$$
-
 $\text{Bromodomain} \rightarrow \text{acetyl group}\left(-C_2H_5\right)$
+
 $\text{Chromodomain} \rightarrow \text{methyl group}\left(-CH_3\right)$
 
 ## Volcabulary
