@@ -58,8 +58,6 @@ published: true
 
 	{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-03.png" caption="Structure of Chromatin" %} [^3]
 
-	<center>Structure of Chromatin</center>
-
 	1. Chromatin can associate with the core of DNA and histones.
 	2. By hydrolyzing ATP to drive the movement of nucleosomes, the relative positions of DNA and histones can be altered.
 	3. Working with histone chaperones, it is possible to exchange histone variants, thereby affecting chromosome structure and consequently influencing DNA expression.
@@ -81,17 +79,14 @@ published: true
 
 	Both bromodomains and chromodomains are critical for the proper regulation of gene expression and chromatin dynamics in eukaryotic cells. Understanding the specific functions and interactions of these domains is essential for deciphering the complex mechanisms underlying epigenetic regulation and cellular processes: 
 
-$$
+$
 \begin{align}
 	\left\{
 		\text{Bromodomain} & \rightarrow \text{acetyl group}\left(-C_2H_5\right) \\
 		\text{Chromodomain} & \rightarrow \text{methyl group}\left(-CH_3\right)
 	\right.
 \end{align}
-$$
-	
-
-
+$
 
 ## Volcabulary
 
