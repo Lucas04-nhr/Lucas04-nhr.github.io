@@ -10,9 +10,6 @@ mathjax: true
 published: true
 ---
 
-
-## Topic of Contents & Thoughts
-
 > Some are based on the textbook and Wikipedia
 
 1. **DNA wrapping** could only be proceed with the proceed with the presence of topoisomers.
@@ -38,16 +35,11 @@ published: true
 
   In summary, CENP-A is a specialized histone variant localized to centromeres, while histone H3 is a core histone protein involved in chromatin packaging and gene regulation. Both proteins are essential for proper chromosome function and cell division.
 
-  {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-01.png" caption="Structure of CENP-A" %}[^1]
-
-
 10. **Histone H2AX is a variant of the core histone protein H2A** that plays a critical role in the DNA damage response. When DNA double-strand breaks occur, H2AX is rapidly phosphorylated at a specific serine residue (serine 139) to form $\gamma$H2AX. This phosphorylation event serves as a marker for DNA damage and acts as a signal to recruit repair factors to the site of the damage.
 
 	$\gamma$H2AX helps to amplify the DNA damage signal, leading to the recruitment of DNA repair proteins, chromatin remodeling complexes, and signaling molecules to the damaged site. This recruitment facilitates the repair of DNA double-strand breaks through processes such as homologous recombination or non-homologous end joining.
 
 	The detection of $\gamma$H2AX levels is commonly used as a marker for DNA damage and repair in research studies and clinical applications.$\gamma$H2AX foci can be visualized using immunofluorescence microscopy, and the quantification of $\gamma$H2AX levels can provide insights into the extent of DNA damage and the efficiency of DNA repair processes.
-
-	{% include figure.html image="https://github.com/Lucas04-nhr/Pictures/blob/main/image/week04-02.png?raw=true" caption="Structure of H2AX" %}[^2]
 
 11. Histone H2AX guides the repair of DNA breaks through phosphorylation.
 
@@ -60,8 +52,6 @@ published: true
   - Chromatin can associate with the core of DNA and histones.
 	- By hydrolyzing ATP to drive the movement of nucleosomes, the relative positions of DNA and histones can be altered.
 	- Working with histone chaperones, it is possible to exchange histone variants, thereby affecting chromosome structure and consequently influencing DNA expression.
-
-	{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-03.png" caption="Structure of Chromatin" %} [^3]
 
 15. **HATs and HDAcs, HMTs and HDMs**
 
@@ -83,17 +73,3 @@ published: true
 $\text{Bromodomain} \rightarrow \text{acetyl group}\left(-C_2H_5\right)$
 
 $\text{Chromodomain} \rightarrow \text{methyl group}\left(-CH_3\right)$
-
-## Volcabulary
-
-<center>All the words to be translated in Chapter 8 are listed in the summary of Week 02. </center>
-
-## Translation
-
-<center>All the summaries to be translated in Chapter 8 are listed in the summary of Week 02. </center>
-
-## Reference
-
-[^1]: By <a href="//commons.wikimedia.org/wiki/User:Pleiotrope" title="User:Pleiotrope"> Pleiotrope</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=16005289">Link</a>
-[^2]: By <a href="//commons.wikimedia.org/wiki/User:Emw" title="User:Emw">Emw</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8814725">Link</a>
-[^3]: By Original uploader was <a href="https://en.wikipedia.org/wiki/User:Zephyris" class="extiw" title="en:User:Zephyris">Richard Wheeler</a> at <a class="external text" href="https://en.wikipedia.org">en.wikipedia</a> - Transferred from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org">en.wikipedia</a></span> to Commons by <a href="//commons.wikimedia.org/wiki/User:Sevela.p" title="User:Sevela.p">sevela.p</a>., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4017531">Link</a>
