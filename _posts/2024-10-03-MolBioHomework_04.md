@@ -79,14 +79,14 @@ published: true
 
 	Both bromodomains and chromodomains are critical for the proper regulation of gene expression and chromatin dynamics in eukaryotic cells. Understanding the specific functions and interactions of these domains is essential for deciphering the complex mechanisms underlying epigenetic regulation and cellular processes: 
 
-$
+$$
 \begin{align}
 	\left\{
 		\text{Bromodomain} & \rightarrow \text{acetyl group}\left(-C_2H_5\right) \\
 		\text{Chromodomain} & \rightarrow \text{methyl group}\left(-CH_3\right)
 	\right.
 \end{align}
-$
+$$
 
 ## Volcabulary
 
