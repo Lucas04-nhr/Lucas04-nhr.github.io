@@ -33,20 +33,21 @@ published: true
 
 9. **CENP-A and histone H3** are both histone proteins that play important roles in chromatin structure and function. 
 
-  {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-01.png" caption="Structure of CENP-A" %}[^1]
-
     - CENP-A is a variant of histone H3 that is specifically localized to centromeres, the regions of chromosomes that are essential for proper chromosome segregation during cell division. CENP-A helps to form the specialized chromatin structure at centromeres, known as the kinetochore, which is crucial for attaching chromosomes to the mitotic spindle during cell division.
     - Histone H3, on the other hand, is one of the core histone proteins that make up the nucleosome, the basic repeating unit of chromatin. Histone H3 is involved in packaging DNA into chromatin and regulating gene expression by influencing the accessibility of DNA to transcription factors and other regulatory proteins. It undergoes various post-translational modifications, such as methylation, acetylation, and phosphorylation, which can affect chromatin structure and gene expression.
 
   In summary, CENP-A is a specialized histone variant localized to centromeres, while histone H3 is a core histone protein involved in chromatin packaging and gene regulation. Both proteins are essential for proper chromosome function and cell division.
 
-10. **Histone H2AX is a variant of the core histone protein H2A** that plays a critical role in the DNA damage response. When DNA double-strand breaks occur, H2AX is rapidly phosphorylated at a specific serine residue (serine 139) to form $\gamma$H2AX. This phosphorylation event serves as a marker for DNA damage and acts as a signal to recruit repair factors to the site of the damage.
+  {% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-01.png" caption="Structure of CENP-A" %}[^1]
 
-	{% include figure.html image="https://github.com/Lucas04-nhr/Pictures/blob/main/image/week04-02.png?raw=true" caption="Structure of H2AX" %}[^2]
+
+10. **Histone H2AX is a variant of the core histone protein H2A** that plays a critical role in the DNA damage response. When DNA double-strand breaks occur, H2AX is rapidly phosphorylated at a specific serine residue (serine 139) to form $\gamma$H2AX. This phosphorylation event serves as a marker for DNA damage and acts as a signal to recruit repair factors to the site of the damage.
 
 	$\gamma$H2AX helps to amplify the DNA damage signal, leading to the recruitment of DNA repair proteins, chromatin remodeling complexes, and signaling molecules to the damaged site. This recruitment facilitates the repair of DNA double-strand breaks through processes such as homologous recombination or non-homologous end joining.
 
 	The detection of $\gamma$H2AX levels is commonly used as a marker for DNA damage and repair in research studies and clinical applications.$\gamma$H2AX foci can be visualized using immunofluorescence microscopy, and the quantification of $\gamma$H2AX levels can provide insights into the extent of DNA damage and the efficiency of DNA repair processes.
+
+	{% include figure.html image="https://github.com/Lucas04-nhr/Pictures/blob/main/image/week04-02.png?raw=true" caption="Structure of H2AX" %}[^2]
 
 11. Histone H2AX guides the repair of DNA breaks through phosphorylation.
 
@@ -55,12 +56,12 @@ published: true
 13. Some DNA-binding proteins **with sequence-specificity** can bind to DNA.
 
 14. **Chromatin** is a complex of DNA and protein found in eukaryotic cells. The primary function is to package long DNA molecules into more compact, denser structures. This prevents the strands from becoming tangled and also plays important roles in reinforcing the DNA during cell division, preventing DNA damage, and regulating gene expression and DNA replication. During mitosis and meiosis, chromatin facilitates proper segregation of the chromosomes in anaphase; the characteristic shapes of chromosomes visible during this stage are the result of DNA being coiled into highly condensed chromatin.
-
-	{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-03.png" caption="Structure of Chromatin" %} [^3]
-
-	- Chromatin can associate with the core of DNA and histones.
+	
+  - Chromatin can associate with the core of DNA and histones.
 	- By hydrolyzing ATP to drive the movement of nucleosomes, the relative positions of DNA and histones can be altered.
 	- Working with histone chaperones, it is possible to exchange histone variants, thereby affecting chromosome structure and consequently influencing DNA expression.
+
+	{% include figure.html image="https://cdn.jsdelivr.net/gh/Lucas04-nhr/Pictures@main/image/week04-03.png" caption="Structure of Chromatin" %} [^3]
 
 15. **HATs and HDAcs, HMTs and HDMs**
 
