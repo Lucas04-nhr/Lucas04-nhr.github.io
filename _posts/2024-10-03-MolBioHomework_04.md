@@ -82,8 +82,8 @@ published: true
 $$
 \begin{align}
 	\left\{
-		\text{Bromodomain} & \rightarrow \text{acetyl group}\left(-C_2H_5\right) \\
-		\text{Chromodomain} & \rightarrow \text{methyl group}\left(-CH_3\right)
+		\text{Bromodomain} \rightarrow \text{acetyl group}\left(-C_2H_5\right) \\
+		\text{Chromodomain} \rightarrow \text{methyl group}\left(-CH_3\right)
 	\right.
 \end{align}
 $$
