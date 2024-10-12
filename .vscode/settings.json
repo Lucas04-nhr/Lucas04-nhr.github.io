@@ -11,5 +11,6 @@
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.projectLanguageModel": 4,
     "azureFunctions.preDeployTask": "npm prune (functions)",
-    "terminal.integrated.fontFamily": ""
+    "terminal.integrated.fontFamily": "",
+    "makefile.configureOnOpen": false
 }
